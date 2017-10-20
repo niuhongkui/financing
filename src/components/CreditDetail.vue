@@ -409,12 +409,5 @@ export default {
   } 
 }
 </script>
-
 <style scoped>
-
 </style>
-
-
-
-// WEBPACK FOOTER //
-// src/components/creditDetail.vue?4b8e5b01
